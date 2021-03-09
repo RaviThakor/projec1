@@ -1,0 +1,47 @@
+
+
+    Artificial Intelligence :
+    
+        AI is a study of how to make computer do things at which at the moment people are better.
+
+    Goals of AI :
+
+        To make systems that think like humam, that think rationally(based on reasons), that act like humans, that can act rationally.
+
+    Domain areas of AI :
+
+        mundane tasks :(routine tasks)
+
+            robot control, vision, speech, natural language etc.
+
+        formal tasks :
+    
+            games like cricket, chess etc. and mathematics like logic, calculus etc.
+
+        expert tasks :
+
+            medical diagnosis, engineering, fault finding, scientific analysis, financial analysis.
+
+    Turing test :
+
+        The Turing Test is a simple method of determining whether a machine can demonstrate human intelligence:
+
+        If a machine can engage in a conversation with a human without being detected as a machine, it has demonstrated human intelligence.
+
+        The Turing Test was proposed in a paper published in 1950 by mathematician and computing pioneer Alan Turing.
+
+    Chinese room experiment :
+
+        The Chinese room argument is a thought experiment of John Searle (1980a) and associated (1984) derivation.
+        It is one of the best known and widely credited counters to claims of artificial intelligence (AI)—that is, to claims that computers do or at least can (someday might) think.
+
+
+    Hueristic search :
+
+        Heuristic search refers to a search strategy that attempts to optimize a problem by iteratively improving the solution based on a given heuristic function or a cost measure.
+        A heuristic search method does not always guarantee to find an optimal or the best solution, but may instead find a good or acceptable solution within a reasonable amount of time
+        and memory space. Several commonly used heuristic search methods include hill climbing methods, the best-first search, the A* algorithm, simulated-annealing, and genetic algorithms.
+
+
+
+
